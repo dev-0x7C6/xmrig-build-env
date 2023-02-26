@@ -1,19 +1,19 @@
 [submodule "poky"]
 	path = poky
 	url = git://git.yoctoproject.org/poky.git
-	branch = kirkstone
+	branch = langdale
 [submodule "layers/meta-openembedded"]
 	path = layers/meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
-	branch = kirkstone
+	branch = langdale
 [submodule "layers/meta-intel"]
 	path = layers/meta-intel
 	url = git://git.yoctoproject.org/meta-intel
-	branch = kirkstone
+	branch = langdale
 [submodule "layers/meta-raspberrypi"]
 	path = layers/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
-	branch = kirkstone
+	branch = langdale
 [submodule "layers/meta-xmrig"]
 	path = layers/meta-xmrig
 	url = https://github.com/dev-0x7C6/meta-xmrig.git
